@@ -86,11 +86,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RohinRajSingh&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohinRajSingh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohinRajSingh&theme=tokyonight&hide_border=true" />
@@ -127,4 +123,5 @@
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
+
 

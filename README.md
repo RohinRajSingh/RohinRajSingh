@@ -109,7 +109,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/RohinRajSingh" target="_blank">
+  <a href="https://in.linkedin.com/in/rohin-raj-singh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -127,3 +127,4 @@
 <p align="center">
   <i>"First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
+
